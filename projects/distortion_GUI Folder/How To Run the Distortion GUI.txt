@@ -1,0 +1,5 @@
+To access the GUI:
+1) extract the zip file to a directory
+2) Open up MatLab and set the "Current Directory" 
+	to be the same as the Distortion GUI directory.
+3) Type dgui in the MatLab "Command Window" and enjoy
